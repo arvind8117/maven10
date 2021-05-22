@@ -1,11 +1,11 @@
 <html>
 <body>
-<h1>Welcome To Login Window </h1>
+<h1>Welcome </h1>
 </body>
 <body style="color:red;">
  <div class="container">
-    <label for="uname"><b>User:    </b></label>
-    <input type="text" placeholder="Enter Username" name="uname" required>
+    <label for="uname"><b>Email ID:    </b></label>
+    <input type="text" placeholder="Enter Email ID" name="uname" required>
 <br></br>
     <label for="psw"><b>Password:     </b></label>
     <input type="password" placeholder="Enter Password" name="psw" required>
